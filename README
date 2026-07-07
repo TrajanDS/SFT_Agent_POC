@@ -1,0 +1,7 @@
+1. Receive a new complaint narrative
+2. Classify the product and issue
+3. Extract key harm/friction signals
+4. Search similar historical CFPB complaints
+5. Predict likely response outcome
+6. Draft an internal triage note
+7. Recommend a queue: servicing, fraud, disputes, credit reporting, collections, etc.
